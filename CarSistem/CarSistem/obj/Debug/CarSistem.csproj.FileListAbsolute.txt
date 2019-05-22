@@ -1,0 +1,36 @@
+F:\CarBillys 150519\CarSistem\CarSistem\bin\Debug\CarSistem.exe.config
+F:\CarBillys 150519\CarSistem\CarSistem\bin\Debug\CarSistem.exe
+F:\CarBillys 150519\CarSistem\CarSistem\bin\Debug\CarSistem.pdb
+F:\CarBillys 150519\CarSistem\CarSistem\obj\Debug\CarSistem.csprojResolveAssemblyReference.cache
+F:\CarBillys 150519\CarSistem\CarSistem\obj\Debug\CarSistem.Ejemplomdi.resources
+F:\CarBillys 150519\CarSistem\CarSistem\obj\Debug\CarSistem.Form1.resources
+F:\CarBillys 150519\CarSistem\CarSistem\obj\Debug\CarSistem.Properties.Resources.resources
+F:\CarBillys 150519\CarSistem\CarSistem\obj\Debug\CarSistem.csproj.GenerateResource.Cache
+F:\CarBillys 150519\CarSistem\CarSistem\obj\Debug\CarSistem.exe
+F:\CarBillys 150519\CarSistem\CarSistem\obj\Debug\CarSistem.pdb
+E:\CarBillys 150519\CarSistem\CarSistem\bin\Debug\CarSistem.exe.config
+E:\CarBillys 150519\CarSistem\CarSistem\obj\Debug\CarSistem.exe
+E:\CarBillys 150519\CarSistem\CarSistem\obj\Debug\CarSistem.pdb
+D:\CarBillys 150519\CarSistem\CarSistem\bin\Debug\CarSistem.exe.config
+D:\CarBillys 150519\CarSistem\CarSistem\obj\Debug\CarSistem.exe
+D:\CarBillys 150519\CarSistem\CarSistem\obj\Debug\CarSistem.pdb
+E:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.csprojAssemblyReference.cache
+E:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.Form1.resources
+E:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.MDIParent1.resources
+E:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.Properties.Resources.resources
+E:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.Stock.resources
+E:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.csproj.GenerateResource.cache
+E:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.csproj.CoreCompileInputs.cache
+E:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.exe
+E:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.pdb
+G:\PROG1 Proyecto 5ta\CarSistem\CarSistem\bin\Debug\CarSistem.exe.config
+G:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.exe
+G:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.pdb
+G:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.csprojResolveAssemblyReference.cache
+G:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.Form1.resources
+G:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.MDIParent1.resources
+G:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.Properties.Resources.resources
+G:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.Stock.resources
+G:\PROG1 Proyecto 5ta\CarSistem\CarSistem\obj\Debug\CarSistem.csproj.GenerateResource.Cache
+G:\PROG1 Proyecto 5ta\CarSistem\CarSistem\bin\Debug\CarSistem.exe
+G:\PROG1 Proyecto 5ta\CarSistem\CarSistem\bin\Debug\CarSistem.pdb
